@@ -10,14 +10,15 @@
   <img src="assets/teaser.png" alt="Regularizing NeRF reconstructions with
 Denoising Diffusion Models" width="500" />
 </p>
+-->
 
 <p align="center">
   <a
-href="https://storage.googleapis.com/niantic-lon-static/research/diffusionerf/5min.mp4">
+href="https://storage.googleapis.com/niantic-lon-static/research/diffusionerf/2min.mp4">
   <img src="assets/video_thumbnail.png" alt="5 minute video" width="500">
   </a>
 </p>
--->
+
 
 
 ## ✏️ 📄 Citation
