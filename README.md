@@ -15,7 +15,7 @@ Denoising Diffusion Models" width="500" />
 <p align="center">
   <a
 href="https://storage.googleapis.com/niantic-lon-static/research/diffusionerf/2min.mp4">
-  <img src="assets/video_thumbnail.png" alt="5 minute video" width="500">
+  <img src="assets/video_thumbnail.png" alt="2 minute video" width="500">
   </a>
 </p>
 
