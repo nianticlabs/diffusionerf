@@ -1,20 +1,14 @@
 # [DiffusioNeRF: Regularizing Neural Radiance Fields with Denoising Diffusion Models](https://arxiv.org/abs/2302.12231)
 
-**[Jamie Wynn](https://scholar.google.com/citations?user=ASP-uu4AAAAJ&hl=en&oi=ao) and [Daniyar Turmukhambetov](https://scholar.google.com/citations?user=ELFm0CgAAAAJ&hl=en&oi=ao) – Arxiv 2023**
+**[Jamie Wynn](https://scholar.google.com/citations?user=ASP-uu4AAAAJ&hl=en&oi=ao) and [Daniyar Turmukhambetov](https://scholar.google.com/citations?user=ELFm0CgAAAAJ&hl=en&oi=ao) – CVPR 2023**
 
 
 [Link to paper](https://arxiv.org/abs/2302.12231)  
 
-<!--
-<p align="center">
-  <img src="assets/teaser.png" alt="Regularizing NeRF reconstructions with
-Denoising Diffusion Models" width="500" />
-</p>
--->
 
 <p align="center">
   <a
-href="https://storage.googleapis.com/niantic-lon-static/research/diffusionerf/2min.mp4">
+href="https://youtu.be/zyRbeBbM-mw">
   <img src="assets/video_thumbnail.png" alt="2 minute video" width="500">
   </a>
 </p>
@@ -27,11 +21,11 @@ If you find our work useful or interesting, please consider citing [our paper](h
 
 ```
 @inproceedings{wynn-2023-diffusionerf,
- title   = {DiffusioNeRF: Regularizing Neural Radiance Fields with Denoising Diffusion Models},
+ title   = {{DiffusioNeRF: Regularizing Neural Radiance Fields with Denoising Diffusion Models}},
  author  = {Jamie Wynn and
             Daniyar Turmukhambetov
            },
- booktitle = {arxiv},
+ booktitle = {CVPR},
  year = {2023}
 }
 ```
