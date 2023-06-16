@@ -6,11 +6,9 @@
 [Paper](https://arxiv.org/abs/2302.12231) | [Supplementary material](https://storage.googleapis.com/niantic-lon-static/research/diffusionerf/diffusionerf_supplemental.pdf)
 
 
-
-
 <p align="center">
   <a
-href="https://youtu.be/zyRbeBbM-mw">
+href="[https://youtu.be/zyRbeBbM-mw](https://www.youtube.com/watch?v=zyRbeBbM-mw&ab_channel=NianticResearch)">
   <img src="assets/video_thumbnail.png" alt="2 minute video" width="500">
   </a>
 </p>
