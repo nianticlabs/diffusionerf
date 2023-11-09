@@ -4,14 +4,14 @@ from torch.utils.cpp_extension import load
 _src_path = os.path.dirname(os.path.abspath(__file__))
 
 nvcc_flags = [
-    '-O3', '-std=c++14',
+    '-O3', '-std=c++17',
     '--expt-extended-lambda', '--expt-relaxed-constexpr',
     '-U__CUDA_NO_HALF_OPERATORS__', '-U__CUDA_NO_HALF_CONVERSIONS__', '-U__CUDA_NO_HALF2_OPERATORS__',
 ]
 
 if os.name == "posix":
     nvcc_flags += ['-Xcompiler=-mf16c', '-Xcompiler=-Wno-float-conversion', '-Xcompiler=-fno-strict-aliasing']
-    c_flags = ['-O3', '-std=c++14']
+    c_flags = ['-O3', '-std=c++17']
 elif os.name == "nt":
     c_flags = ['/O2', '/std:c++17']
 
