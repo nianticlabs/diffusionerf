@@ -40,7 +40,7 @@ def lpips(rendered, target):
 def ssim(rendered, target):
     rendered = normalize_to_neg_one_to_one(rendered)[0]
     target = normalize_to_neg_one_to_one(target)[0]
-    return float(skimage.metrics.structural_similarity(rendered, target, channel_axis=-1))
+    return float(skimage.metrics.structural_similarity(rendered, target, data_range=2., channel_axis=-1))
 
 
 def psnr(rendered, target):
