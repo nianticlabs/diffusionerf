@@ -12,6 +12,9 @@
   </a>
 </p>
 
+## Update 1:
+It was [brought to our attention](https://github.com/nianticlabs/diffusionerf/issues/13) that we incorrectly used Alex-net to compute LPIPS (and subsequently Average) metrics for our networks in Table 1 of the CVPR-version of the paper. We have now updated the table by using VGG network scores and updated the paper on [arxiv]((https://arxiv.org/abs/2302.12231)).
+
 ## Quickstart
 
 This section will walk you through setting up DiffusioNeRF and using it to fit a NeRF to a scene from LLFF.
